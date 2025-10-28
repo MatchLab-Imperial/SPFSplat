@@ -22,6 +22,8 @@
 
 <br>
 
+Make sure to also check our other work: [SPFSplatV2](https://ranrhuang.github.io/spfsplatv2/), which enhances SPFSplat with improved performance and training efficiency, and further extends it for VGGT!
+
 
 
 <!-- TABLE OF CONTENTS -->
